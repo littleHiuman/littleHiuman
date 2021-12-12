@@ -1,8 +1,9 @@
 ## Hi there 👋 , I'm littleHiuman <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-### 👩‍💻 A front-end developer
+### 👩‍💻 A frontend developer
 
-- 💬 Ask me about front-end technologies such as HTML, CSS, JavaScript, ES6, Vue, etc
+- 💬 Ask me about frontend technologies such as HTML, CSS, JavaScript, ES6, Vue, etc
+- 👯 I’m looking to collaborate on a useful/interesting project, or a project that it can improve my skills
 - 📫 How to reach me: [littleHiuman@gmail.com](mailto:littleHiuman@gmail.com)
 
 
